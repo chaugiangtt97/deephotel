@@ -23,3 +23,14 @@ scrapy crawl booking_score -a start_url='https://www.booking.com/searchresults.j
 
 As you know, I'm Python Beginner.
 I'm glad you to give feedback.
+
+"Hi gkzz,
+Sorry for editing your file without permision.
+I am a student and doing a science research at school.
+But I have some troubles when I trying to crawl booking.com's data.
+I really want to have your contact like email or something like that because I want to discuss and leanrn more from you about crawling data.
+My email is giangttc41@due.edu.vn
+Looking forward to hearing from you.
+Have a nice day,
+
+Chau Giang Tran"
